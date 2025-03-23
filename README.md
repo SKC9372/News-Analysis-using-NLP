@@ -74,6 +74,7 @@ streamlit run app.py
 
 ## **🌍 Deployment**
 The project is **deployed on Hugging Face Spaces**.  
+You can access it by clicking [here](https://huggingface.co/spaces/Surya9372/news-analysis).
 To deploy it yourself:
 1. Push your repository to GitHub  
 2. Add a `Dockerfile`  
